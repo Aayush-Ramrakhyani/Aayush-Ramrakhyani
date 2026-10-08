@@ -60,22 +60,6 @@
 
 ---
 
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aayush-Ramrakhyani&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-### 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Aayush-Ramrakhyani/Aayush-Ramrakhyani/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
 ### 🤝 Connect with Me
 
 <p align="center">
