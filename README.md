@@ -2,9 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&width=620&lines=Hey+there%2C+I'm+Aayush+%F0%9F%91%8B;Flutter+dev+from+Ahmedabad;Python+tinkerer;Shipping+ideas+%E2%80%94+one+commit+at+a+time" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aayush-Ramrakhyani&label=Profile+Views&color=0078d4&style=flat" alt="Profile Views" />
-</p>
 
 ---
 
