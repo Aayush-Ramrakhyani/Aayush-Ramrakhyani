@@ -62,7 +62,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://portfolio-xi-two-o4f6nbfxer.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-00C8FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <a href="mailto:aayushr7777@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="tel:+919409096117">
+    <img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=phone&logoColor=white" />
   </a>
 </p>
