@@ -12,7 +12,7 @@
 - 🐍 Automating things and building backends with **Python**
 - ⛓️ Currently exploring **Solana / Web3** and **real-time data systems**
 - 💬 Ask me about **Flutter, Android, Python, or anything mobile**
-- 🌐 Portfolio: [portfolio-xi-two-o4f6nbfxer.vercel.app](https://portfolio-xi-two-o4f6nbfxer.vercel.app/)
+- 🌐 Portfolio: [portfolio-xi-two-o4f6nbfxer.vercel.app](https://aayush-ramrakhyani.vercel.app/)
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/aayush-ramrakhyani-496a65212/)
 
 ---
